@@ -1,5 +1,1 @@
-    def button05Tabla0101(self):
-        self.table01.setRowCount(len(self.numbers_list))
-        for row, number in enumerate(self.numbers_list):
-            item = QTableWidgetItem(str(number))
-            self.table01.setItem(row, 0, item)
+Empy
